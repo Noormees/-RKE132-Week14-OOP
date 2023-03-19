@@ -1,0 +1,15 @@
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\bin\Debug\net6.0\Week14_OOP.exe
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\bin\Debug\net6.0\Week14_OOP.deps.json
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\bin\Debug\net6.0\Week14_OOP.runtimeconfig.json
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\bin\Debug\net6.0\Week14_OOP.dll
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\bin\Debug\net6.0\Week14_OOP.pdb
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\obj\Debug\net6.0\Week14_OOP.csproj.AssemblyReference.cache
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\obj\Debug\net6.0\Week14_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\obj\Debug\net6.0\Week14_OOP.AssemblyInfoInputs.cache
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\obj\Debug\net6.0\Week14_OOP.AssemblyInfo.cs
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\obj\Debug\net6.0\Week14_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\obj\Debug\net6.0\Week14_OOP.dll
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\obj\Debug\net6.0\refint\Week14_OOP.dll
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\obj\Debug\net6.0\Week14_OOP.pdb
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\obj\Debug\net6.0\Week14_OOP.genruntimeconfig.cache
+C:\Users\Noormees\source\repos\Week14_OOP\Week14_OOP\obj\Debug\net6.0\ref\Week14_OOP.dll
